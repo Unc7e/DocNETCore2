@@ -1,0 +1,11 @@
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\bin\Debug\netcoreapp2.0\DocTodoApi.deps.json
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\bin\Debug\netcoreapp2.0\DocTodoApi.runtimeconfig.json
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\bin\Debug\netcoreapp2.0\DocTodoApi.runtimeconfig.dev.json
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\bin\Debug\netcoreapp2.0\DocTodoApi.dll
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\bin\Debug\netcoreapp2.0\DocTodoApi.pdb
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.csprojAssemblyReference.cache
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.csproj.CoreCompileInputs.cache
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.AssemblyInfoInputs.cache
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.AssemblyInfo.cs
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.dll
+C:\Project\NETCore2\DocTodoApi\DocTodoApi\obj\Debug\netcoreapp2.0\DocTodoApi.pdb
